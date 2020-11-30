@@ -2,6 +2,7 @@ package com.zy;
 
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("¸üĞÂ1");
+        System.out.println("Â¸Ã¼ÃÃ‚1");
+        System.out.println("æµ‹è¯•2");
     }
 }
